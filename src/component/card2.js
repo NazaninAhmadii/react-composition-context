@@ -3,10 +3,11 @@ import { card2 } from '../data';
 
 const Card2 = () => {
     return (
-        <div key="card2">
+        <React.Fragment>
             <h3>{card2.title}</h3>
             <img src={card2.img} alt="grape" />
-        </div>
+        </React.Fragment>
+
     )
 }
 

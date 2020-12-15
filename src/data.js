@@ -6,7 +6,7 @@ export const card1 = {
 };
 export const card2 = {
     title: 'Merlot',
-    img: '../asset/sarah-gualtieri-wHVQdLO2Y9c-unsplash.jpg'
+    img: '../asset/karen-BGt__MIy1hk-unsplash.jpg'
 };
 export const card3 = {
     title: 'Pinot gris',
